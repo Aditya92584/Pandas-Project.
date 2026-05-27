@@ -1,11 +1,11 @@
 # Pandas-Project.
-📘 Topics Covered
-✅ Pandas Fundamentals
-Creating Series & DataFrames
+## 📘 Topics Covered
+* ** ✅ Pandas Fundamentals
+**Creating Series & DataFrames
 Data Selection & Filtering
 Data Operations
-✅ Data Cleaning
-Handling Missing Values
+* ** ✅ Data Cleaning
+** Handling Missing Values
 Filling & Dropping Null Data
 Data Preprocessing
 ✅ Data Manipulation
