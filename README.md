@@ -1,69 +1,93 @@
-# Pandas-Project.
+# Pandas Project
+
 ## 📘 Topics Covered
-* ** ✅ Pandas Fundamentals
-**Creating Series & DataFrames
-Data Selection & Filtering
-Data Operations
-* ** ✅ Data Cleaning
-** Handling Missing Values
-Filling & Dropping Null Data
-Data Preprocessing
-✅ Data Manipulation
-Merge
-Join
-Concatenation
-✅ Data Aggregation
-GroupBy Operations
-Aggregation Functions
-Statistical Analysis
-✅ Pivot Tables
-Creating Pivot Tables
-Multi-level Analysis
-Summarizing Data
-✅ Feature Engineering
-Extracting Features
-Transforming Columns
-Working with String/Data Features
-📊 Datasets Used
-🌍 Countries Dataset
 
+### ✅ Pandas Fundamentals
+- Creating Series & DataFrames
+- Data Selection & Filtering
+- Data Operations
+
+### ✅ Data Cleaning
+- Handling Missing Values
+- Filling & Dropping Null Data
+- Data Preprocessing
+
+### ✅ Data Manipulation
+- Merge
+- Join
+- Concatenation
+
+### ✅ Data Aggregation
+- GroupBy Operations
+- Aggregation Functions
+- Statistical Analysis
+
+### ✅ Pivot Tables
+- Creating Pivot Tables
+- Multi-level Analysis
+- Summarizing Data
+
+### ✅ Feature Engineering
+- Extracting Features
+- Transforming Columns
+- Working with String & Date Features
+
+---
+
+## 📊 Datasets Used
+
+### 🌍 Countries Dataset
 Used for:
+- Population Analysis
+- Country-based Statistics
+- Aggregation & Filtering
 
-Population analysis
-Country-based statistics
-Aggregation & filtering
-🎌 Anime Dataset
-
+### 🎌 Anime Dataset
 Used for:
+- Anime Ratings Analysis
+- Genre-based Filtering
+- Data Cleaning Practice
 
-Anime ratings analysis
-Genre-based filtering
-Data cleaning practice
-🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Jupyter Notebook
-🚀 Future Improvements
-Add Data Visualization using Matplotlib & Seaborn
-Build Interactive Dashboard with Streamlit
-Perform Exploratory Data Analysis (EDA)
-Add Machine Learning models
-📸 Sample Output
+---
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+---
+
+## 🚀 Future Improvements
+- Add Data Visualization using Matplotlib & Seaborn
+- Build Interactive Dashboard with Streamlit
+- Perform Exploratory Data Analysis (EDA)
+- Add Machine Learning Models
+
+---
+
+## 📸 Sample Output
 
 Add screenshots of:
+- Jupyter Notebooks
+- DataFrame Outputs
+- Charts & Graphs
 
-Jupyter notebooks
-DataFrame outputs
-Charts/graphs
-💡 Learning Outcomes
+---
+
+## 💡 Learning Outcomes
 
 Through this project, I learned:
+- Efficient Data Manipulation using Pandas
+- Real-world Data Cleaning Techniques
+- Aggregation & Summarization of Datasets
+- Working with CSV Files in Python
+- Building Structured Data Analysis Workflows
 
-Efficient data manipulation using Pandas
-Real-world data cleaning techniques
-Aggregation and summarization of datasets
-Working with CSV files in Python
-Building structured data analysis workflows
-🔗 Connect With Me
-LinkedIn: (https://www.linkedin.com/in/aditya-srivastava-253b16334/)
+---
+
+## 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/aditya-srivastava-253b16334/
+
+GitHub: https://github.com/your-github-username
